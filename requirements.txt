@@ -1,0 +1,8 @@
+# HTTP requests library
+requests
+
+# HTML/XML parser for scraping
+beautifulsoup4
+
+# Faster parser backend (used by BeautifulSoup if available)
+lxml
